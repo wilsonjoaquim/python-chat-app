@@ -1,10 +1,20 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
+*.pyc
 *$py.class
 
 # C extensions
 *.so
+
+# Dependency directories
+node_modules/
+/dist/
+
+# IDE FILES
+.vscode/
+.idea/
+*.iml
 
 # Distribution / packaging
 .Python
@@ -128,6 +138,15 @@ ENV/
 env.bak/
 venv.bak/
 
+# virtual environments
+venv/
+venv*/
+.Python
+bin/
+include/
+lib/
+lib64/
+pip-selfcheck.json
 # Spyder project settings
 .spyderproject
 .spyproject
