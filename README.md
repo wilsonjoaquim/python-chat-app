@@ -4,3 +4,6 @@ This is a project is part of 35 mini projects that i've building to learn the fo
 In the final, i deployed to Render.com as a web service, you can test here: https://python-chat-app-4r26.onrender.com/
 Tip: "you don't need to be great to start something, you should start to be great".
 Developer: Wilson Joaquim
+
+## Collaborators
+- Orlando Soares
